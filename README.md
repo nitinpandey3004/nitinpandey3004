@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitinpandey3004
 - 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning Kubernetes and React.
-- 💞️ I’m looking to collaborate on Java, NodeJs
+- 💞️ I’m looking to collaborate on Golang, Java, NodeJs
 - 📫 How to reach me. Mail me at nitinpandey3004@gmail.com.
 
 <!---
